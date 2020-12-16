@@ -1,0 +1,165 @@
+{
+  "main": {
+    "name":"Rajneesh Singh",
+    "occupation":"Trainee Software Engineer",
+    "description":"Looking for a challenging role in a reputable organization to utilize my technical and problem solving skills for the growth of the organization",
+    "image":"rajneesh.jpg",
+    "bio":"I am technology enthusiast. I always eager to gain knowledge about new technologies.My interest in software field is much higher than any other things.I always try to play with code because with the help of coding  you can handle any machine. I was hired  as a trainee full stack developer in Milestone where I learn about front end and backend programming Langauges.Then I switched to Madgical Techdom where I work as Trainee Software Engineer.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "srajneesh15@gmail.com",
+    "phone": "+91-889-639-2950",
+    "address":{
+      "street":"Sarswatipuram",
+      "city":"Gorakhpur",
+      "state":"Uttar Pradesh",
+      "zip": "273014"
+    },
+    "website": "http://www.timb.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/srajneesh15",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/srajneesh15",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/rajneesh-singh-a5b868a1/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/singhraj0508",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/raq97894",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com/srajneesh15",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Dr. A.P.J Abdul Kalam Technical University",
+        "degree":"B.tech in Electronics & Communication Engineering",
+        "graduated":"June 2018",
+        "description":"I completed my B.tech from Institute of Technlogy and Management, Gorakhpur college  affilated to AKTU. During my college time I worked on a project \"Four Quadrant Speed Control of DC Motor with the Help of AT89S52 Microcontroller\" with my team memebers I was assigned for the development of the coding part using C++. In this project our main foucs was to control the speed of the motor with the help of PWM in any direction.I also participated in robotics competition where I achieved 1'st and 3'rd price in robo war and robo race."
+      },
+      {
+        "school":"Govt. Jubilee Inter College",
+        "degree":"10+2",
+        "graduated":"March 2013",
+        "description":"I have completed my Intermediate from Govt. Jubilee Inter college. It is affilated to UP Board."
+      }
+    ],
+    "work":[
+      {
+        "company":"Madgical Techdom",
+        "title":"Trainee Software Engineer",
+        "years":"October 2018 - Present",
+        "description":"For most of the Time I worked as Front end developer.I mainly worked with Angular and React.Currently I am working on react Application with my team members.I also Developed an application using Angular for sarthi education who used this application for students in the primary schools, where students can arrange the sentence, guess the animal name, read the sentence, arrange the image in the correct form."
+      },
+      {
+        "company":"MileStone OS",
+        "title":"Trainee FullStack Developer",
+        "years":"Sept 2019 - August 2020",
+        "description":"In MileStone OS I learn and developed many games and application due to which my command in Html, Css, Javascript, Angular, Nodejs, Mongodb and git become very strong.I developed Chess , Tic tac Toe and many more small games. I also developed many small website and hosted on firebase. I developed clone website of BookMyShow, Flipkart and Yatra.com . Overall my knowledge in coding becomes too good."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Angular",
+        "level":"90%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"React",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      { "name":"Nodejs",
+        "level": "90%"
+      },
+      {
+        "name":"ExpressJS",
+        "level": "90%"
+      },
+      {
+        "name": "GoogleScript",
+        "level": "70%"
+      },
+      {
+        "name": "MySql",
+        "level": "70%"
+      },
+      {
+        "name":"Python",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Clone of FlipKart",
+        "category":"Developed a clone website of Flipkart",
+        "image":"flipKartClone.png",
+        "url":"https://empl-28cfb.web.app/home"
+      },
+      {
+        "title":"Clone of BookMyShow",
+        "category":"Website for movies lovers",
+        "image":"bookMyShow.png",
+        "url":"https://xytrre.web.app/home/NCR"
+      },
+      {
+        "title":"Clone of Yatra.com",
+        "category":"Website for travellers",
+        "image":"yatra.png",
+        "url":"https://mob-f3497.web.app/yatra"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
